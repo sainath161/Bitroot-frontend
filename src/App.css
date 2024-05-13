@@ -1,0 +1,18 @@
+.App {
+  padding: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  /* margin-left: 100px; */
+}
+
+* {
+  font-family: "Lato";
+
+}
+
+p {
+  color: gray;
+}
